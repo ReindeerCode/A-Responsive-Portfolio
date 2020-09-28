@@ -118,7 +118,7 @@ nav > a:hover {
 section {
   width: 100%;
   height: auto;
-  background-image: -webkit-linear-gradient(#80059e 0%, #550486 100%);
+  background-image: -webkit-linear-gradient(#1f1063e1 0%, #bd7c51 100%);
 }
 .section-left,
 .section-right {
