@@ -171,34 +171,6 @@ section {
   text-align: center;
 }
 
-.passion {
-  margin: 0;
-  display: grid;
-  grid-template-columns: auto;
-  grid-template-rows: auto;
-  grid-template-areas:
-    "crossfit nature"
-    "coding    dogs";
-}
-
-.crossfit {
-  grid-area: crossfit;
-}
-
-.nature {
-  grid-area: nature;
-}
-
-.coding {
-  grid-area: coding;
-}
-.dogs {
-  grid-area: dogs;
-}
-
-.card {
-  margin: 20px;
-}
 body {
   display: flex;
   flex-direction: column;
@@ -298,8 +270,6 @@ footer {
       "dogs";
   }
   .card {
-    width: 35rem;
-    height: 35rem;
     margin: 10px;
   }
   article {
