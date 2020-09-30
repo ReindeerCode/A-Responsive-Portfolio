@@ -290,6 +290,25 @@ footer {
   .learn-more {
     margin: 0 auto;
   }
+  .passion {
+    grid-template-areas:
+      "crossfit"
+      "nature"
+      "coding"
+      "dogs";
+  }
+  .card {
+    width: 35rem;
+    height: 35rem;
+    margin: 10px;
+  }
+  article {
+    font-family: "Indie Flower", cursive;
+    font-size: 14px;
+    text-align: center;
+    padding-left: 4%;
+    padding-right: 4%;
+  }
 }
 
 /* Landscape phones and down */
@@ -347,14 +366,7 @@ footer {
   .hidden-desktop {
     display: block;
   }
-}
-
-@media (max-width: 700px) {
-  .passion {
-    grid-template-areas:
-      "crossfit"
-      "nature"
-      "coding"
-      "dogs";
+  .card {
+    margin: 1px;
   }
 }
