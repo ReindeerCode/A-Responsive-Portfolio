@@ -1,3 +1,12 @@
+.class {
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
+  grid-template-areas:
+    "image text"
+    "text text";
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -178,8 +187,16 @@ body {
 }
 
 footer {
-  text-align: center;
-  margin-top: auto;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    height: 5%;
+    text-align: center;
+    margin-top: auto;
+  }
+
 }
 /* Portrait tablet to landscape and desktop */
 @media (min-width: 768px) and (max-width: 979px) {
