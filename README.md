@@ -18,7 +18,7 @@ Following screen shot of Profile page. Since I do not yet have a book of project
 
 The following screen shot if of the Contact page. The Git Hub, Facebook, and LinkedIn links are functional, however the Send button is not yet. Can be updated as I learn JavaScript
 
-![code refactor demo](./assets/images/Contact.png)
+![code refactor demo](./assets/Contact.png)
 
 ## Directions
 
