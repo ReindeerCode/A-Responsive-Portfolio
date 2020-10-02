@@ -4,6 +4,22 @@ Responsive design ensures that web applications render well on a variety of devi
 
 Deployed website link -> https://reindeercode.github.io/A-Responsive-Portfolio/
 
+Following screen shot of Home (index) page not showing Footer
+
+![code refactor demo](./Assets/Index-NoFooter.png)
+
+Following screen shot of Home (index) page showing the Footer stuck to the bottom. Footer is sticky on all pages
+
+![code refactor demo](./Assets/Index-Footer-Stuck.png)
+
+Following screen shot of Profile page. Since I do not yet have a book of projects I have put some of my interests on this page. These are place holders and can be updated as I continue through the program
+
+![code refactor demo](./Assets/Profile-Interests.png)
+
+The following screen shot if of the Contact page. The Git Hub, Facebook, and LinkedIn links are functional, however the Send button is not yet. Can be updated as I learn JavaScript
+
+![code refactor demo](./Assets/images/Contact.png)
+
 ## Directions
 
 First, you will use the Bootstrap CSS Framework to create a mobile responsive portfolio. How do you deliver this? Here are some guidelines:
