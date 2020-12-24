@@ -1,18 +1,19 @@
 # Project: CSS and Bootstrap: Responsive Portfolio
 
-  Deployable Link - > 
+  Deployable Link - > https://reindeercode.github.io/A-Responsive-Portfolio/
 
-  Video Walk through Link -> 
 
 ## Table of Contents: 
-- [Name](#name)
-- [License](#license)
-- [Description](#description)
-- [Installation Instructions](#installationInstructions)
-- [Test](#test)
-- [GitHub](#gitHub)
-- [Email](#email)
-- [Contributors](#contributors)
+- [Project: CSS and Bootstrap: Responsive Portfolio](#project-css-and-bootstrap-responsive-portfolio)
+  - [Table of Contents:](#table-of-contents)
+  - [License:](#license)
+  - [Description:](#description)
+  - [Images:](#images)
+  - [Installation Instructions:](#installation-instructions)
+  - [Test Command:](#test-command)
+  - [Github:](#github)
+  - [My Email Address:](#my-email-address)
+  - [Other Contributors:](#other-contributors)
 
 ## License:
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -21,11 +22,13 @@
 Use the Bootstrap CSS Framework to create a mobile responsive portfolio.
 
 ## Images:
-![Project Screenshot](./imagePathHere.png)
+![Project Screenshot](./assets/Index-NoFooter.png)
 
-![Project Screenshot](./imagePathHere.png)
+![Project Screenshot](./assets/Index-Footer-Stuck.png)
 
-![Project Screenshot](./imagePathHere.png)
+![Project Screenshot](./assets/Profile-Interests.png)
+
+![Project Screenshot](./assets/Contact.png)
 
 ## Installation Instructions: 
 No requirments to install project. If creating your own ensure that you have links to the most recent Bootstrap in your HTML.
