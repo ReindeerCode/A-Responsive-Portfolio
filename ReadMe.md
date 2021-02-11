@@ -8,33 +8,27 @@
   - [Table of Contents:](#table-of-contents)
   - [License:](#license)
   - [Description:](#description)
-  - [Images:](#images)
   - [Installation Instructions:](#installation-instructions)
   - [Test Command:](#test-command)
   - [Github:](#github)
   - [My Email Address:](#my-email-address)
   - [Other Contributors:](#other-contributors)
+  - [Images:](#images)
 
 ## License:
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description:
-Use the Bootstrap CSS Framework to create a mobile responsive portfolio.
+Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application.
 
-## Images:
-![Project Screenshot](./assets/Index-NoFooter.png)
+This site uses the Bootstrap CSS Framework to create a mobile responsive portfolio.
 
-![Project Screenshot](./assets/Index-Footer-Stuck.png)
-
-![Project Screenshot](./assets/Profile-Interests.png)
-
-![Project Screenshot](./assets/Contact.png)
 
 ## Installation Instructions: 
 No requirments to install project. If creating your own ensure that you have links to the most recent Bootstrap in your HTML.
 
 ## Test Command: 
-To test type Simply click the deployed site link. into the terminal
+To test type Simply click the deployed site link.
 
 ## Github: 
 Check out more projects on my Github at https://github.com/ReindeerCode
@@ -44,3 +38,12 @@ If you have any questions please feel free to email me at ReindeerCode@gmail.com
 
 ## Other Contributors:
 None at this time.
+
+## Images:
+![Project Screenshot](./assets/Index-NoFooter.png)
+
+![Project Screenshot](./assets/Index-Footer-Stuck.png)
+
+![Project Screenshot](./assets/Profile-Interests.png)
+
+![Project Screenshot](./assets/Contact.png)
